@@ -1,0 +1,220 @@
+
+header{
+	height: 10em;
+}
+
+body{
+	margin:0;
+}
+
+
+
+/* HOME PAGE FIRST BLOCK  */
+
+.contSize{
+	width: 65%;
+	margin: 0 auto;
+}
+
+.cont1{
+	display: grid; 
+	grid-template-columns: 1fr 1fr;
+}
+
+.floatleft1{
+	float: left;
+}
+
+.floatright1{
+	float: right;
+}
+
+.borderBottom1{
+	border-bottom: 1px solid lightgrey;
+}
+
+.greyColor1{
+	color: #CACFD2;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
+}
+
+.iconSize1{
+	font-size: 1em;
+	margin-left: 0.5em;
+	}
+
+.no-padding{
+	padding: 0em;
+	margin: 0em;
+}
+
+.lineHight{
+	line-height:3em;
+}
+
+
+/* HOME PAGE SECOND BLOCK */
+
+.cont2{
+	display: block;
+}
+
+.logo1{
+	height: 6em;
+}
+
+.lineHight1{
+	line-height:6em;
+}
+
+.inline{
+	display: inline-block;
+}
+
+
+.head1{
+	border-bottom:1px solid lightgrey;
+}
+
+/* HOME PAGE THIRD BLOCK */
+
+
+.cont3{
+	display: grid;
+	grid-template-columns:1fr;
+}
+
+
+#cont-left1{
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-gap: 1em;
+	align-items: center;
+	margin-right: .2rem;
+}
+
+#cont-right1{
+	display: grid;
+	grid-template-columns: 10px 10px 10px 10px 1px;
+	grid-gap: 1em;
+	justify-content: right;
+	align-items: center;
+}
+
+
+
+/* HOME PAGE FORTH BLOCK */
+
+.height1{
+	height: 3em;
+	padding: 0;
+}
+
+.hrm1{
+	margin-bottom: 0em;
+	padding: 0;
+	text-align: center;
+	font-size: 2em;
+	font-weight: : bold;
+}
+
+.lnh2{
+	line-height: 3em;
+
+}
+
+.cont4{
+	display: block;
+}
+
+/* HOME PAGE FIFTH BLOCK */
+
+.cont5{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 1em;
+}
+
+/* HOME PAGE PICTURES BLOCK */
+
+.box1{
+	border: .1em solid lightgrey;
+	display: grid;
+	grid-auto-columns: 1fr;
+}
+
+.hm2{
+	line-height: 2.2em;
+	text-align: center;
+	font-size: 2.2em;
+	margin: 0;
+}
+
+.smallPic{
+	max-width: 100%;
+	padding: 0em;
+}
+
+.paraG1{
+	margin: 0em, auto;
+	margin-bottom: 0em;
+	line-height: 3em;
+}
+
+
+.btnC1{
+
+}
+
+.btn1{
+	color: black;
+	line-height: 2.5em;
+	background-color: lightgreen;
+	border: 1px solid lightgrey;
+	font-size: .8em; 
+	margin: 0 auto;
+	align-content: center;
+}
+
+
+
+
+
+
+.cont-left2{
+	float: left;
+}
+
+.cont-right2{
+	float:right;
+}
+
+.center1{
+	height: 100px;
+}
+
+.lineheight1{
+	height:100px;
+	line-height: 100px;
+}
+
+.size16{
+	font-size: 25px;
+}
+
+
+
+.mainNav2{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.mainNav3{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+
+
+
